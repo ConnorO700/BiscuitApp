@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\appsettings.production.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\controllers\\biscuitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\controllers\\biscuitcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\biscuit-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\services\\biscuitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\services\\biscuitservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.stage.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\appsettings.stage.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\biscuit-api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\models\\biscuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\models\\biscuit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\models\\biscuitdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\models\\biscuitdatabasesettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\data\\applicationurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\data\\applicationurls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|c:\\users\\connor\\desktop\\workspace\\currentprojects\\biscuit-appv2\\biscuit-api\\biscuit-api\\data\\mongoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7072A5CB-2628-4538-AC35-8A191E59CC88}|biscuit-api\\biscuit-api.csproj|solutionrelative:biscuit-api\\data\\mongoconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\web.config",
+              "RelativeDocumentMoniker": "biscuit-api\\web.config",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\web.config",
+              "RelativeToolTip": "biscuit-api\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-27T17:58:39.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.Production.json",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.Production.json",
+              "RelativeDocumentMoniker": "biscuit-api\\appsettings.Production.json",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.Production.json",
+              "RelativeToolTip": "biscuit-api\\appsettings.Production.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T15:26:20.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Stage.json",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.Stage.json",
+              "RelativeDocumentMoniker": "biscuit-api\\appsettings.Stage.json",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.Stage.json",
+              "RelativeToolTip": "biscuit-api\\appsettings.Stage.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-27T15:25:54.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "biscuit-api.http",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.http",
+              "RelativeDocumentMoniker": "biscuit-api\\biscuit-api.http",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.http",
+              "RelativeToolTip": "biscuit-api\\biscuit-api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-21T12:34:46.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "biscuit-api.csproj",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.csproj",
+              "RelativeDocumentMoniker": "biscuit-api\\biscuit-api.csproj",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.csproj",
+              "RelativeToolTip": "biscuit-api\\biscuit-api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-21T12:34:42.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BiscuitService.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Services\\BiscuitService.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Services\\BiscuitService.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Services\\BiscuitService.cs",
+              "RelativeToolTip": "biscuit-api\\Services\\BiscuitService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:22:11.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BiscuitDatabaseSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Models\\BiscuitDatabaseSettings.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Models\\BiscuitDatabaseSettings.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Models\\BiscuitDatabaseSettings.cs",
+              "RelativeToolTip": "biscuit-api\\Models\\BiscuitDatabaseSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T16:18:29.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "biscuit-api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "biscuit-api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-20T15:39:56.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MongoConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Data\\MongoConfig.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Data\\MongoConfig.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Data\\MongoConfig.cs",
+              "RelativeToolTip": "biscuit-api\\Data\\MongoConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:46:04.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ApplicationUrls.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Data\\ApplicationUrls.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Data\\ApplicationUrls.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Data\\ApplicationUrls.cs",
+              "RelativeToolTip": "biscuit-api\\Data\\ApplicationUrls.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:13:58.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "biscuit-api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.Development.json",
+              "RelativeToolTip": "biscuit-api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T20:12:24.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Program.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Program.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Program.cs",
+              "RelativeToolTip": "biscuit-api\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T20:05:44.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Biscuit.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Models\\Biscuit.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Models\\Biscuit.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Models\\Biscuit.cs",
+              "RelativeToolTip": "biscuit-api\\Models\\Biscuit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T19:53:33.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.json",
+              "RelativeDocumentMoniker": "biscuit-api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\appsettings.json",
+              "RelativeToolTip": "biscuit-api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-18T15:56:29.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiscuitController.cs",
+              "DocumentMoniker": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Controllers\\BiscuitController.cs",
+              "RelativeDocumentMoniker": "biscuit-api\\Controllers\\BiscuitController.cs",
+              "ToolTip": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\Controllers\\BiscuitController.cs",
+              "RelativeToolTip": "biscuit-api\\Controllers\\BiscuitController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T15:55:48.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
