@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F5jKc89uyWk=",
+  "dgSpecHash": "1ED406HbGoo=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\biscuit-appv2\\biscuit-api\\biscuit-api\\biscuit-api.csproj",
+  "projectFilePath": "C:\\Users\\Connor\\Desktop\\Workspace\\CurrentProjects\\BiscuitApp\\biscuit-api\\biscuit-api\\biscuit-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Connor\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Connor\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.3.0\\microsoft.aspnetcore.cors.2.3.0.nupkg.sha512",
