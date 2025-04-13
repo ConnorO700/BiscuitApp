@@ -21,7 +21,7 @@ export default defineConfig(({ mode }) => {
 				tailwindcss(),
 			],
 			server: {
-				port: 3333,
+				port: 3030,
 			},
 		}
 	};
@@ -42,7 +42,7 @@ export default defineConfig(({ mode }) => {
 				tailwindcss(),
 			],
 			server: {
-				port: 3330,
+				port: 3031,
 			},
 		}
 	}
